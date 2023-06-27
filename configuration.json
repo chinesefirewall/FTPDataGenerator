@@ -1,0 +1,18 @@
+{
+  "resolution": "3840x2160",
+  "fps": 60,
+  "duration": 60,
+  "ftp_user": "TestUser",
+  "ftp_password": "Xingjin112",
+  "ftp_host": "127.0.0.1",
+  "ftp_port": 21,
+  "output_dir": "./data",
+
+  "video_output_dir": "./data/videos",
+  "test_video_path": "data/videos/test.mp4",
+  "snapshot_output_dir": "data/snapshots",
+  "csv_output_file": "data/MetaData/metadata.csv",
+  "interval": 1000,
+  "max_retries": 5,
+  "retry_interval": 5
+}
