@@ -2,7 +2,6 @@ name: UPDATE_CI
 
 on:
   schedule:
-    - cron: '0 0,5,10,15,20 * * 1'
     - cron: '0 0,5,10,15,20 * * 3'
   workflow_dispatch:
 
